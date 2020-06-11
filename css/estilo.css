@@ -1,0 +1,52 @@
+#principal{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+
+}
+
+header{
+	width: 900px;
+	height: 150px;
+	border: 0px solid #000;
+}
+
+#logo{
+	width: 300px;
+	height: 100px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+	text-align: center;
+}
+.titulo{
+	margin-top: 25px;
+	font-size: 40px;
+}
+
+.menu{
+	width: 460px;
+	height: 40px;
+	border: 1px solid #ccc;
+	float: right;
+	margin-top: 40px;
+	background: #006699;
+	text-align: center;
+}
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	text-align: center;
+	margin-top: 10px; color: 	
+}
+
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
